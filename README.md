@@ -8,7 +8,7 @@ Explore and compare the design and functionality of different operating systems.
 | SNo | Topic | Link |
 |-|-|-|
 |1|Operating Systems | [Explanation video link]( https://youtu.be/U1jA8PXxjLU)|
-|2| Netlify | [Diployed Link]( https://venerable-fairy-22ddc8.netlify.app/)|
+|2| Netlify | [Deployed Link]( https://gleaming-concha-b155b0.netlify.app/)|
 
 <h2> Directory Structure</h2>
 Binary_ballers_014
